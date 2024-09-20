@@ -39,7 +39,6 @@ and every project is a chance to shape the future of how people interact with te
 <a href="https://reactrouter.com/en/main"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="32" height="32" /></a>
 <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" height="32" /></a>
 <a href="https://create-react-app.dev/"><img src="https://cdn.simpleicons.org/createreactapp" width="32" height="32" /></a>
-<a href="https://create-react-app.dev/"><img src="https://cdn.simpleicons.org/createreactapp" width="32" height="32" /></a>
 
 </td></tr></table>
 

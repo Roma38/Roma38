@@ -34,6 +34,12 @@ and every project is a chance to shape the future of how people interact with te
 <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="32" height="32" /></a>
 <a href="https://github.com/atom/atom"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="32" height="32" /></a>
 <a href="https://babeljs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="32" height="32" /></a>
+<a href="https://slack.com"><img src="https://static-00.iconduck.com/assets.00/slack-icon-256x256-pg8rwku4.png" width="32" height="32" /></a>
+<a href="https://figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" /></a>
+<a href="https://reactrouter.com/en/main"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="32" height="32" /></a>
+<a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" height="32" /></a>
+<a href="https://create-react-app.dev/"><img src="https://cdn.simpleicons.org/createreactapp" width="32" height="32" /></a>
+<a href="https://create-react-app.dev/"><img src="https://cdn.simpleicons.org/createreactapp" width="32" height="32" /></a>
 
 </td></tr></table>
 
